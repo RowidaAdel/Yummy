@@ -57,8 +57,7 @@ Clicking on a meal shows:
 
 ## 🧠 Technical Highlights
 
-- Consumes [TheMealDB API](https://www.themealdb.com/api.php)  
-  *(No API key needed)*
+- Consumes [TheMealDB API](https://www.themealdb.com/api.php)   *(No API key needed)*
 - Displays **first 20 meals** per query
 - Uses animation effects for better UX
 - Responsive on all screen sizes
@@ -67,6 +66,6 @@ Clicking on a meal shows:
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view](https://your-live-demo-link.com)
+👉 [Click here to view](https://rowidaadel.github.io/Yummy/)
 
 
